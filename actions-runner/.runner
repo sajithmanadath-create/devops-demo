@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-IKG5NE2",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/v8jQ2S6xHzQdrENJph8WJyFudBDhFKEZ9QIGWwYzbLvB7PUDF2/",
+  "gitHubUrl": "https://github.com/sajithmanadath-create/devops-demo",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
